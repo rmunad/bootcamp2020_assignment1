@@ -1,2 +1,2 @@
 # bootcamp2020_assignment1
-bootcamp2020_assignment
+Bsic Website for Bootcamp Practice
