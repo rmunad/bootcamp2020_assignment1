@@ -1,2 +1,2 @@
-# bootcamp2020_may_31
-bootcamp2020
+# bootcamp2020_assignment1
+bootcamp2020_assignment
